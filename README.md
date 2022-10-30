@@ -1,5 +1,7 @@
-# project
-
+# Project
+The aim of the project is to conduct data exploratory analysis using Matplotlib and seaborn.
+Classification of white wine into high and low quality.
+Use of different classifier models to predict wine quality.
 # About Data 
 - fixed acidity: most acids involved with wine or fixed or nonvolatile
 
